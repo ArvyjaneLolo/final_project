@@ -15,4 +15,4 @@ This is my final project created using HTML and CSS.
    http://localhost/final-website/
 
 ## Live Website
-(Will be added after deployment)
+ https://arvyjanelolo.github.io/final_project/
